@@ -8,7 +8,9 @@ Outros recursos utilizados: https://drive.google.com/drive/folders/1fna5ri7y6Qfs
 
 
 Notas: segui os passos das aulas e construí um dashboard muito semelhante ao proposto. Além disso, fiz algumas alterações:
+-Troquei a fonte de dados para um arquivo na nuvem
+-adicionei a coluna "PCD" na base de dados. 
+-fiz uma nova aba com insights de diversidade e inclusão.
 
-Troquei a fonte de dados para um arquivo na nuvem
-adicionei a coluna "PCD" na base de dados. 
-fiz uma nova aba com insights de diversidade e inclusão.
+
+Publicado em: https://app.powerbi.com/view?r=eyJrIjoiYWEwMGY0YTUtMWM5My00YTQzLThhZDItYzZmNzUzOTEwZGQ2IiwidCI6ImNjZTYwYTU0LTQwZDgtNDljNi1hMGI0LWRlMDVkNWY5MTU1MiJ9
